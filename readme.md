@@ -1,6 +1,8 @@
 FactoryMuff (Laravel Bundle)
 ===========================
 
+![factory muff poster](http://img846.imageshack.us/img846/3576/factorymuffposter.jpg)
+
 The goal of this [Laravel Bundle](http://bundles.laravel.com/) is to enable the rapid creation of objects for the purpose of testing. Basically a "[factory\_girl\_rails](https://github.com/thoughtbot/factory_girl_rails)" simplified for use with Laravel.
 
 Instalation
