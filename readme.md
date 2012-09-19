@@ -5,6 +5,10 @@ FactoryMuff (Laravel Bundle)
 
 The goal of this [Laravel Bundle](http://bundles.laravel.com/) is to enable the rapid creation of objects for the purpose of testing. Basically a "[factory\_girl\_rails](https://github.com/thoughtbot/factory_girl_rails)" simplified for use with Laravel.
 
+### License
+
+_Do What The Fuck You Want To Public License, Version 2, as published by Sam Hocevar. http://sam.zoy.org/wtfpl/COPYING_
+
 Instalation
 -----------
 
