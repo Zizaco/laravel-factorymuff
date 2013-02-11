@@ -3,6 +3,15 @@ FactoryMuff (Laravel Bundle)
 
 ![factory muff poster](http://img846.imageshack.us/img846/3576/factorymuffposter.jpg)
 
+[![ProjectStatus](http://stillmaintained.com/Zizaco/laravel-factorymuff.png)](http://stillmaintained.com/Zizaco/laravel-factorymuff)
+
+-----------
+
+**This package is outdated.** Even thought if you are using Laravel 3, I strongly recommend you to use the [new FactoryMuff](https://github.com/Zizaco/factory-muff) with composer.
+
+-----------
+
+
 The goal of this [Laravel Bundle](http://bundles.laravel.com/) is to enable the rapid creation of objects for the purpose of testing. Basically a "[factory\_girl\_rails](https://github.com/thoughtbot/factory_girl_rails)" simplified for use with Laravel.
 
 ### License
